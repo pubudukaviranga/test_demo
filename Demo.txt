@@ -3,5 +3,6 @@ git init
 git config
 git add
 git commit
+git status
 git checkout
 git diff
