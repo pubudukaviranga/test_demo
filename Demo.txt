@@ -1,1 +1,7 @@
-Hello Pubudu
+Hello Pubudu. 
+git init
+git config
+git add
+git commit
+git checkout
+git diff
