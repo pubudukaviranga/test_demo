@@ -1,5 +1,5 @@
 Hello Pubudu. 
-git init
+git init         - initialise a repository
 git config
 git add
 git commit
